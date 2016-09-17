@@ -1,6 +1,6 @@
 ## 2.0.4
 2014-12-06
-
+test
 * update mac icon and mac app minimize mode #254
 * watch deep imports #137
 * auto compile files when project added
